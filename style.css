@@ -14,20 +14,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    /* border: 1px solid red; */
     border-radius: 10px;
-    /* box-sizing: border-box;
-    background-color: #1F2937;
-    margin: 30px auto;
-    width: 100%;
-    max-width: 600px;
-    min-height: 550px;
-    display: flex;
-    justify-content: center;
-    align-items: start;
-    flex-direction: column;
-    padding: 0 52px;
-    border-radius: 10px; */
 }
 
 #input-container {
@@ -116,7 +103,6 @@ body {
 
 .display-output {
     width: 90%;
-    /* margin: 36px 25px 36px 25px; */
     background: #273549;
     border-radius: 5px;
 }
