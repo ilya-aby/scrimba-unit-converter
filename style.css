@@ -39,8 +39,8 @@ body {
 }
 
 #input-container input {
-    width: 20%;
-    min-width: 117px;
+    width: 100%;
+    max-width: 150px;
     height: 83px;
     border: 2px solid #B295FF;
     border-radius: 5px;
@@ -53,6 +53,8 @@ body {
     letter-spacing: -0.03em;
     text-align: center;
     margin-bottom: 20px;
+    padding: 0 10px;
+    box-sizing: border-box;
 }
 
 #input-container button {
